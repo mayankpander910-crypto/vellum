@@ -1,0 +1,17 @@
+node_modules/
+.next/
+out/
+.vite/
+coverage/
+*.tsbuildinfo
+.DS_Store
+.env*
+!.env.example
+npm-debug.log*
+playwright-report/
+test-results/
+qa-output/*
+!qa-output/downloaded-resume.pdf
+!qa-output/print-output.pdf
+!qa-output/exported-resume.json
+!qa-output/e2e-results.json

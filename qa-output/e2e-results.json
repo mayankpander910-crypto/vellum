@@ -1,0 +1,202 @@
+[
+  {
+    "name": "homepage renders headline",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "name": "homepage shows real resume previews",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "name": "navbar links present",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "name": "gallery shows all 50 templates",
+    "ok": true,
+    "detail": "50 cards"
+  },
+  {
+    "name": "search filters templates",
+    "ok": true,
+    "detail": "11 results"
+  },
+  {
+    "name": "reset filters restores 50",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "name": "template preview modal opens",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "name": "modal has Use This Template action",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "name": "examples page lists 10 cards",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "name": "guide article renders",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "name": "builder renders a resume page",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "name": "sample data visible in live preview",
+    "ok": true,
+    "detail": "Aarav Mehta"
+  },
+  {
+    "name": "typing updates the live preview instantly",
+    "ok": true,
+    "detail": "Priya Sharma"
+  },
+  {
+    "name": "undo restores previous content",
+    "ok": true,
+    "detail": "Aarav Mehta"
+  },
+  {
+    "name": "switching templates preserves data",
+    "ok": true,
+    "detail": "Aarav Mehta"
+  },
+  {
+    "name": "switched template is applied",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "name": "page size control works",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "name": "zoom control works",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "name": "writing assistant opens",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "name": "JSON export contains the resume data",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "name": "PDF download produces a real PDF file",
+    "ok": true,
+    "detail": "46310 bytes, aarav-mehta-resume.pdf"
+  },
+  {
+    "name": "PDF filename uses the resume owner name",
+    "ok": true,
+    "detail": "aarav-mehta-resume.pdf"
+  },
+  {
+    "name": "clear all empties the preview",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "name": "JSON import restores the resume in the preview",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "name": "dark theme toggles",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "name": "registry exposes 50 template ids",
+    "ok": true,
+    "detail": "50 ids"
+  },
+  {
+    "name": "all 50 templates render in the browser",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "name": "two-column templates render a sidebar",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "name": "skill bars render on supporting templates",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "name": "profile photo can be added locally",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "name": "can add a work experience entry",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "name": "can duplicate an entry",
+    "ok": true,
+    "detail": "3 -> 4"
+  },
+  {
+    "name": "can delete an entry",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "name": "custom sections appear in the live preview",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "name": "mobile builder shows Edit/Preview/Customize tabs",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "name": "mobile edit tab reveals form fields",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "name": "mobile preview remains usable",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "name": "no horizontal overflow on mobile",
+    "ok": true,
+    "detail": "0px"
+  },
+  {
+    "name": "no horizontal overflow on mobile homepage",
+    "ok": true,
+    "detail": "0px"
+  },
+  {
+    "name": "no blocking console errors",
+    "ok": true,
+    "detail": ""
+  }
+]
